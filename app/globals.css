@@ -1,13 +1,5 @@
+@layer theme, reset, base, tokens, recipes, components, utilities;
+
 @import "tailwindcss";
 
-:root {
-    --background: #f7f7f4;
-    --foreground: #1d211f;
-    --muted: #626b66;
-    --line: #d9ddd5;
-    --panel: #ffffff;
-    --accent: #176b5b;
-    --accent-strong: #0f4d42;
-    --warning: #b7791f;
-    --danger: #b42318;
-}
+

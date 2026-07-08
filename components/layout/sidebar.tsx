@@ -9,11 +9,11 @@ export function Sidebar() {
   const pathname = usePathname();
 
   return (
-    <aside className="flex h-screen w-64 flex-col bg-[#0e0e12] text-neutral-100">
+    <aside className="flex h-screen w-64 px-0.5 shrink-0 flex-col bg-[#0e0e12] text-neutral-100">
       {/* Brand */}
       <Link
         href="/dashboard"
-        className="flex items-center gap-3 px-5 pt-6 pb-5"
+        className="flex items-center gap-3 px-3 pt-6 pb-5"
       >
         <span className="grid h-9 w-9 shrink-0 place-items-center rounded-lg bg-linear-to-b from-amber-400 to-amber-700 text-amber-950">
           <Command className="h-4.5 w-4.5" aria-hidden="true" />
@@ -38,7 +38,7 @@ export function Sidebar() {
       </div>
 
       {/* Nav */}
-      <nav aria-label="Primary" className="flex flex-1 flex-col gap-0.5 px-3">
+      <nav className="flex flex-1 flex-col gap-0.5 px-3">
         {dashboardNavigation.map((item) => {
           const isActive =
             pathname === item.href || pathname?.startsWith(`${item.href}/`);
