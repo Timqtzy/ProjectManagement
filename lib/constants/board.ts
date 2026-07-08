@@ -1,0 +1,5 @@
+export const columnProgress = [
+  { id: "todo", title: "To do" },
+  { id: "in-progress", title: "In progress" },
+  { id: "done", title: "Done" },
+];
