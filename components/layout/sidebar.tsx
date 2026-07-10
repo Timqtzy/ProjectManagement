@@ -1,9 +1,9 @@
 "use client";
-
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { LogOut, Command, Search } from "lucide-react";
-import { dashboardNavigation } from "@/lib/constants/navigation";
+import { sidebarNavigation } from "@/lib/constants/navigation";
+import Searchbar from "@/components/ui/searchbar";
 
 export function Sidebar() {
   const pathname = usePathname();
@@ -24,22 +24,13 @@ export function Sidebar() {
       </Link>
 
       {/* Search */}
-      <div className="px-3 pb-4">
-        <button
-          type="button"
-          className="flex w-full items-center gap-2.5 rounded-lg bg-white/5 px-3 py-2.5 text-sm text-neutral-400 transition-colors hover:bg-white/[0.07] hover:text-neutral-200"
-        >
-          <Search className="h-4 w-4 shrink-0" aria-hidden="true" />
-          <span>Search</span>
-          <kbd className="ml-auto rounded border border-white/10 bg-white/5 px-1.5 py-0.5 font-mono text-[10px] text-neutral-500">
-            ⌘K
-          </kbd>
-        </button>
-      </div>
+     <section className="px-3 py-2">
+         <Searchbar/>
+     </section>
 
       {/* Nav */}
-      <nav aria-label="Primary" className="flex flex-1 flex-col gap-0.5 px-3">
-        {dashboardNavigation.map((item) => {
+      <nav className="flex flex-1 flex-col gap-0.5 px-3">
+        {sidebarNavigation.map((item) => {
           const isActive =
             pathname === item.href || pathname?.startsWith(`${item.href}/`);
 
