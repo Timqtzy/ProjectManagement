@@ -1,5 +1,3 @@
 @layer theme, reset, base, tokens, recipes, components, utilities;
 
 @import "tailwindcss";
-
-

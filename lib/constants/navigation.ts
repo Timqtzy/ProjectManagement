@@ -3,13 +3,19 @@ import {
   InboxIcon,
   Calendar,
   Settings,
-  Search,
+    ListIcon,
+    KanbanSquareIcon,
+    FolderIcon,
+    NotebookTabs,
 } from "lucide-react";
 
-export const dashboardNavigation = [
+export const sidebarNavigation = [
   { name: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
-  { name: "Inbox", href: "/inbox", icon: InboxIcon },
+  {name: "Project", href: "/project", icon: FolderIcon },
+  {name: "Kanban Board", href: "/kanban", icon: KanbanSquareIcon },
+  { name: "List View", href: "/list-view", icon: ListIcon },
   { name: "Calendar", href: "/calendar", icon: Calendar },
-  { name: "Search", href: "/search", icon: Search },
+  { name: "Inbox", href: "/inbox", icon: InboxIcon },
+  {name: "Notes", href: "/notes", icon: NotebookTabs},
   { name: "Settings", href: "/settings", icon: Settings },
 ];
