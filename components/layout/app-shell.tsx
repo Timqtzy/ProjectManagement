@@ -3,10 +3,10 @@ import { Sidebar } from "./sidebar"
 
 export function AppShell({ children }: { children: React.ReactNode }) {
   return (
-    <div className="app-shell flex">
+    <div className="app-shell">
       <Sidebar />
-      <main className="app-main w-full">
-          {/*<Navbar />*/}
+      <main className="app-main">
+        <Navbar />
         {children}
       </main>
     </div>

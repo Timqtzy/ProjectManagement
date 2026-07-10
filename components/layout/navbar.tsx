@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export function Navbar() {
   return (
-    <header className="app-navbar">
+    <header className="app-navbar flex justify-center items-center w-full ">
       <div>
         <p className="eyebrow">Workspace</p>
         <h1>Project management</h1>
