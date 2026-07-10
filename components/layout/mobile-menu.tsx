@@ -1,11 +1,11 @@
 import Link from "next/link"
 
-import { dashboardNavigation } from "@/lib/constants/navigation"
+import { sidebarNavigation } from "@/lib/constants/navigation"
 
-export function MobileMenu() {
+export default function MobileMenu() {
   return (
     <nav className="mobile-menu" aria-label="Mobile">
-      {dashboardNavigation.map((item) => (
+      {sidebarNavigation.map((item:any) => (
         <Link key={item.href} href={item.href}>
           {item.name}
         </Link>
