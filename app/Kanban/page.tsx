@@ -1,6 +1,6 @@
 export default function KanbanPage() {
   return (
-    <section className="page-stack">
+    <section className="page-stack ">
       <div className="section-heading">
         <p className="eyebrow">Workspace</p>
         <h2>Kanban</h2>

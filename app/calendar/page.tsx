@@ -1,6 +1,6 @@
 export default function CalendarPage() {
   return (
-    <section className="page-stack">
+    <section className="page-stack ">
       <div className="section-heading">
         <p className="eyebrow">Schedule</p>
         <h2>Calendar</h2>

@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="557ebda8-a36e-46aa-9e49-ce171a0c37ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Kanban/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Kanban/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Kanban/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/calendar/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/calendar/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/inbox/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/inbox/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/list-view/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/list-view/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/notes/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/notes/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/notes/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/project/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/project/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/project/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/settings/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/settings/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/settings/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/scroll-item.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/searchbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/stats.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/calendar/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/calendar/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/inbox/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/inbox/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/settings/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/list-view/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/project/[projectId]/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/project/[projectId]/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout/sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/dashboard/dashboard-overview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/features/dashboard/dashboard-overview.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/constants/navigation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/navigation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="00baba7a-354c-4993-b37e-2f5a45b26a21" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,60 +42,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000492041823175" />
-      <entry key="S2" value="1.1026356187100421" />
-      <entry key="S5" value="1.6576264158013942" />
-      <entry key="S10" value="2.4689925147405964" />
-      <entry key="S30" value="3.8701243585220593" />
-      <entry key="S60" value="5.210021907666133" />
-      <entry key="M2" value="7.892144252270379" />
-      <entry key="M5" value="12.638869722947979" />
-      <entry key="M10" value="16.54456189145705" />
-      <entry key="M15" value="19.91680640532836" />
-      <entry key="M30" value="38.64440707022135" />
-      <entry key="H1" value="107.68795068245409" />
-      <entry key="H2" value="230.7941873781091" />
-      <entry key="H4" value="355.3557549491599" />
-      <entry key="D1" value="519.8020701753277" />
-      <entry key="W1" value="555.7470308747635" />
+      <entry key="MS500" value="1.0000004715780813" />
+      <entry key="S2" value="1.0262052557637793" />
+      <entry key="S5" value="1.233000373308737" />
+      <entry key="S10" value="1.4838606317299776" />
+      <entry key="S30" value="1.9587952435917437" />
+      <entry key="S60" value="2.610798828370857" />
+      <entry key="M2" value="3.919310277000155" />
+      <entry key="M5" value="9.417865829288376" />
+      <entry key="M10" value="19.083769598183594" />
+      <entry key="M15" value="26.585926061231522" />
+      <entry key="M30" value="48.33718374296565" />
+      <entry key="H1" value="113.35158648895444" />
+      <entry key="H2" value="235.62358895164033" />
+      <entry key="H4" value="366.01400477540363" />
+      <entry key="D1" value="545.0617408338202" />
+      <entry key="W1" value="585.0219740877989" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.482731402095401E-106" />
-      <entry key="MS500" value="8.53486199429413E-22" />
-      <entry key="S2" value="6.757727546223115E-6" />
-      <entry key="S5" value="0.014143979304456015" />
-      <entry key="S10" value="0.1993328214488388" />
-      <entry key="S30" value="1.231471961082211" />
-      <entry key="S60" value="2.0629957670321284" />
-      <entry key="M2" value="2.863749424237583" />
-      <entry key="M5" value="4.253224540577509" />
-      <entry key="M10" value="6.181740768095195" />
-      <entry key="M15" value="7.931213823952976" />
-      <entry key="M30" value="12.809438697152801" />
-      <entry key="H1" value="21.744158955270795" />
-      <entry key="H2" value="33.57421819361625" />
-      <entry key="H4" value="44.26706137840509" />
-      <entry key="D1" value="57.64394276504543" />
-      <entry key="W1" value="60.50415591853486" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.3891225127019417E-171" />
+      <entry key="S5" value="7.511861306312043E-69" />
+      <entry key="S10" value="1.4526693998631341E-34" />
+      <entry key="S30" value="1.1082060568262798E-11" />
+      <entry key="S60" value="6.188655853620333E-6" />
+      <entry key="M2" value="0.004960026681974464" />
+      <entry key="M5" value="0.3343011804883066" />
+      <entry key="M10" value="1.7330878934815752" />
+      <entry key="M15" value="3.397396159994403" />
+      <entry key="M30" value="8.383654382145028" />
+      <entry key="H1" value="17.591150632110743" />
+      <entry key="H2" value="30.19824645294245" />
+      <entry key="H4" value="41.98252942793433" />
+      <entry key="D1" value="57.13711785816981" />
+      <entry key="W1" value="60.42787186261092" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.318935881471463E-21" />
-      <entry key="MS500" value="1.1646218666841259E-4" />
-      <entry key="S2" value="0.17415111225254787" />
-      <entry key="S5" value="0.9314117551013887" />
-      <entry key="S10" value="2.061073975798811" />
-      <entry key="S30" value="4.719577562646724" />
-      <entry key="S60" value="6.984778520887738" />
-      <entry key="M2" value="10.533137240580347" />
-      <entry key="M5" value="16.75674919658824" />
-      <entry key="M10" value="22.642804678234757" />
-      <entry key="M15" value="27.784541929244963" />
-      <entry key="M30" value="51.40541387284915" />
-      <entry key="H1" value="129.38760529448933" />
-      <entry key="H2" value="264.33262672755694" />
-      <entry key="H4" value="399.59908033011374" />
-      <entry key="D1" value="577.4408912011457" />
-      <entry key="W1" value="616.2504204394404" />
+      <entry key="MS100" value="8.472550729099916E-32" />
+      <entry key="MS500" value="7.55435904746081E-7" />
+      <entry key="S2" value="0.04746884264404052" />
+      <entry key="S5" value="0.44618638887892137" />
+      <entry key="S10" value="0.9451104659785611" />
+      <entry key="S30" value="1.7258821603031886" />
+      <entry key="S60" value="2.4742598064905104" />
+      <entry key="M2" value="3.8333385267296602" />
+      <entry key="M5" value="9.684327708648707" />
+      <entry key="M10" value="20.756834107593598" />
+      <entry key="M15" value="29.929274316742905" />
+      <entry key="M30" value="56.67426243338691" />
+      <entry key="H1" value="130.89888217379826" />
+      <entry key="H2" value="265.7856189517336" />
+      <entry key="H4" value="407.9719771422664" />
+      <entry key="D1" value="602.193436955142" />
+      <entry key="W1" value="645.4490311731915" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -142,34 +110,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;fix/tailwind-layer-missing&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tim/WebstormProjects/ProjectManagement/app&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Tim\\WebstormProjects\\ProjectManagement\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "fix/tailwind-layer-missing",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Tim/WebstormProjects/ProjectManagement/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
