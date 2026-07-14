@@ -134,7 +134,7 @@ export function DashboardOverview() {
     });
 
     return (
-        <section className="page-stack mx-auto max-w-7xl px-8 py-12">
+        <section className="page-stack min-h-screen mx-auto max-w-7xl px-8 py-12">
             <div className="section-heading flex items-start justify-between gap-4 px-4 pb-5">
                 <div>
                     <h1 className="font-serif text-2xl italic text-white">
